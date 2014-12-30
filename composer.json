@@ -3,8 +3,8 @@
     , "description": "{{@TODO description}}"
     , "type": "cakephp-plugin"
     , "keywords": [
-        "cakephp",
-        "gourmet",
+        "cakephp"
+        , "gourmet"
     ]
     , "homepage": "https://github.com/gourmet/{{lcPluginName}}"
     , "license": "MIT"
