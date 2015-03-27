@@ -11,7 +11,7 @@
 Using [Composer][composer]:
 
 ```
-composer require gourmet/{{lcPluginName}}
+composer require gourmet/{{lcPluginName}}:dev-master
 ```
 
 You then need to load the plugin. In `boostrap.php`, something like:
